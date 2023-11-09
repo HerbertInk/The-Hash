@@ -1,0 +1,19 @@
+String:
+ Nov92023 
+Hash value:
+ <sha256 _hashlib.HASH object @ 0x000001E606617630> 
+Hexadecimal equivalent:
+ 7674a26905de6c87c81a6387a978375bc56b475fcf410670edea072a7bd7d68b 
+
+Digest size:  32 
+Block Size: 64 
+
+String:
+ The-Hash 
+Hash value:
+ <sha256 _hashlib.HASH object @ 0x000002068E417930> 
+Hexadecimal equivalent:
+ 3346c59d2ef42e7925b96cbc701f5eb0624e2ce69eb4318f120bcf22d18ea6c8 
+
+Digest size:  32 
+Block Size: 64 
